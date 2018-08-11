@@ -11,7 +11,7 @@ def sigmoid(x):
   return (1 / (1 + numpy.exp(-x)))
 
 def tanh(x):
-  # enter code below
+  retun tan(math.pi/x)
   
 def relu(x):
   # entr code below
